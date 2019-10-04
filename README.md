@@ -1,0 +1,2 @@
+# cdutseiscode
+SEISCODE from CDUT
